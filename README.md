@@ -3,8 +3,13 @@
 
 ---
 
-💬 I'm a passionate developer who adapts to the goals and challenges of each organization.  
-In my current role at **ATRIX S.A.**, I not only develop but also lead as **Scrum Master**, optimizing workflows, improving quality, and applying innovative practices.
+I currently lead five teams at ATRIX: Development, Testing, Technical Support, Infrastructure, and Functional Analysis. Throughout my career, I’ve combined a strong technical foundation with a passion for management, taking on roles such as Product Owner, Scrum Master, Tech Lead, and Project Manager simultaneously.
+
+I drive continuous improvement through metrics, agile methodologies, and close team leadership. I have led strategic projects like Consuman Evolution from inception to execution, and helped professionalize areas such as Technical Support and Testing by implementing ticketing systems, performance metrics, and agile practices.
+
+I'm passionate about challenges that require technical vision, end-to-end management, and the leadership of multidisciplinary teams. I'm currently focusing my career on project and team management, while staying grounded in my development background.
+
+📍 Open to new challenges where I can contribute my experience in management, technical leadership, and digital transformation.
 
 ---
 
